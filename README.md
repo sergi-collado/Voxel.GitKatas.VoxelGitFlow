@@ -13,7 +13,7 @@
 
 **Preparación de las katas:**
 
-fork del repositorio por el usuario que hace la kata (no comitar en este repositorio!)
+- **fork** del repositorio por el usuario que hace la kata (**_no comitar nunca en este repositorio!_**)
 
 ***
 

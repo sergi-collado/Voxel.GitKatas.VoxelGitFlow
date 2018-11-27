@@ -3,19 +3,13 @@
 ### *Repositorio de las katas para Voxel Git Flow*
 
 **Branches configurados:**
-
-*develop*
-
-*master*
+- *develop*
+- *master*
 
 **Behaviors configurados:**
-
-*develop* bloqueado para push directo
-
-*master* bloqueado para push directo
-
-*Pull Request* aprobadas por 1 persona en ambos branches
-
+- *develop* bloqueado para push directo
+- *master* bloqueado para push directo
+- *Pull Request* aprobadas por 1 persona en ambos branches
 
 **Preparación de las katas:**
 

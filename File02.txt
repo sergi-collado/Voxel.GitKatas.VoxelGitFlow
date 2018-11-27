@@ -1,4 +1,7 @@
 01: SomeLine 01
+01.1: SomeNewLine 01.1
 02: SomeLine 02
+02.1: SomeNewLine 02.1
+02.2: SomeNewLine 02.2
 03: SomeLine 03
 04: SomeLine 04

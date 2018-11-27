@@ -23,8 +23,8 @@ Pasos a seguir en esta kata:
 2. Modificar fichero *File01.txt* añadiendo las siguientes filas (ordenadas donde corresponda):
 
 ```
-01.1: SomeNewLine 01.1    
-02.1: SomeNewLine 02.1    
+01.1: SomeNewLine 01.1
+02.1: SomeNewLine 02.1
 02.2: SomeNewLine 02.2
 ```
 
@@ -41,8 +41,8 @@ Pasos a seguir en esta kata:
 2. Modificar fichero *File02.txt* añadiendo las siguientes filas (ordenadas donde corresponda):
 
 ```
-01.1: SomeNewLine 01.1    
-02.1: SomeNewLine 02.1    
+01.1: SomeNewLine 01.1
+02.1: SomeNewLine 02.1
 02.2: SomeNewLine 02.2
 ```
 

@@ -29,7 +29,7 @@ Pasos a seguir en esta kata:
 ```
 
 3. Añadir el fichero *SomeDir/File06.txt* con el mismo contenido que *SomeDir/File05.txt*
-4. Operaciones Git necesarias para hacer commit del branch *exercise1* y obtenerlo en GitHub
+4. Operaciones Git necesarias para hacer commit del branch *exercise1* y obtenerlo, con el mismo nombre, en GitHub
 5. Crear **_Pull Request_** del branch *exercise1*
 6. **_Code Review / Reintegración_** del *Pull Request* en **_develop_** y eliminación del branch *exercise1* en GitHub
 
@@ -47,7 +47,7 @@ Pasos a seguir en esta kata:
 ```
 
 3. Añadir el fichero *SomeDir/File06.txt* con el mismo contenido que *SomeDir/File05.txt*
-4. Operaciones Git necesarias para hacer commit del branch *exercise2a* y obtenerlo en GitHub
+4. Operaciones Git necesarias para hacer commit del branch *exercise2a* y obtenerlo, con el mismo nombre, en GitHub
 5. Crear **_Pull Request_** del branch *exercise2a*
 6. Crear nuevo branch *exercise2b* basado en **_develop**_
 7. Modificar *File02.txt* añadiendo las siguientes filas (ordenadas donde corresponda):
@@ -68,7 +68,7 @@ Pasos a seguir en esta kata:
 04: SomeOtherLine 04
 ```
 
-9. Operaciones Git necesarias para hacer commit del branch *exercise2b* y obtenerlo en GitHub
+9. Operaciones Git necesarias para hacer commit del branch *exercise2b* y obtenerlo, con el mismo nombre, en GitHub
 10. Crear **_Pull Request_** del branch *exercise2b*
 11. **_Code Review / Reintegración_** del *Pull Request* del branch *exercise2a* en **_develop_** y eliminación del branch en GitHub
 12. **_Code Review / Reintegración_** del *Pull Request* del branch *exercise2b* en **_develop_** y eliminación del branch en GitHub
